@@ -73,8 +73,7 @@ pip install -r requirements.txt
 - SQL (pandasql)
 
 ## Contato
-Em caso de dúvidas ou sugestões é só vir aqui:
-Talles - [tallesg.work@gmail.com/https://www.linkedin.com/in/talles-arag%C3%A3o/]
+Em caso de dúvidas ou sugestões é só vir aqui: Talles - Email:tallesg.work@gmail.com/ Linkedin: www.linkedin.com/in/talles-aragão
 
 ## Obrigado pela oportunidade, triggo.ai!
 
