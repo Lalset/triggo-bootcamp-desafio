@@ -1,6 +1,3 @@
-# triggo-bootcamp-desafio
-Solução para o desafio técnico do Programa Trainee de Excelência em Engenharia de Dados e DataOps 2025 - triggo.ai.   O projeto envolve análise exploratória, modelagem preditiva, segmentação de clientes, visualizações e geração de insights a partir de um dataset de e-commerce brasileiro.
-
 # Teste Técnico - Triggo.ai | Programa de Trainee em Engenharia de Dados e DataOps 2025
 
 Este repositório contém a solução desenvolvida para o teste técnico do processo seletivo da **triggo.ai**. O objetivo foi analisar dados do e-commerce **Olist** utilizando técnicas de análise exploratória, machine learning, segmentação e visualização de dados.
