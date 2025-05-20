@@ -59,10 +59,10 @@ Este repositório contém a solução desenvolvida para o teste técnico do proc
 git clone https://github.com/Lalset/triggo-bootcamp-desafio
 cd triggo-bootcamp-desafio
 
-2. Instalke os pacotes necessários:
+3. Instale os pacotes necessários:
 pip install -r requirements.txt
 
-3. Abra o notebook na plataforma de sa escolha e execute as células.
+4. Abra o notebook na plataforma de sa escolha e execute as células.
 
 ## Tecnologias Utilizadas
 - Python
@@ -73,7 +73,7 @@ pip install -r requirements.txt
 - SQL (pandasql)
 
 ## Contato
-Em caso de dúvidas ou sugestões é só vir aqui: Talles - Email:tallesg.work@gmail.com/ Linkedin: www.linkedin.com/in/talles-aragão
+Em caso de dúvidas ou sugestões é só vir aqui: <br> Talles - Email: tallesg.work@gmail.com / Linkedin: www.linkedin.com/in/talles-aragão
 
 ## Obrigado pela oportunidade, triggo.ai!
 
