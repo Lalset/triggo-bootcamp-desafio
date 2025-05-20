@@ -5,7 +5,7 @@ Solução para o desafio técnico do Programa Trainee de Excelência em Engenhar
 
 Este repositório contém a solução desenvolvida para o teste técnico do processo seletivo da **triggo.ai**. O objetivo foi analisar dados do e-commerce **Olist** utilizando técnicas de análise exploratória, machine learning, segmentação e visualização de dados.
 
-## 🧪 Etapas do Desafio
+## Etapas do Desafio
 
 ### ✅ Tarefa 1: Preparação dos Dados
 
@@ -43,17 +43,17 @@ Este repositório contém a solução desenvolvida para o teste técnico do proc
 - A taxa de atrasos é de aproximadamente 8,1%.
 
 ## Imagens do Insight para fácil acesso:
-### 📊 Gráficos da Análise Exploratória
+### Gráficos da Análise Exploratória
 
 - [Volume de Pedidos por Mês](https://github.com/Lalset/triggo-bootcamp-desafio/blob/main/images/Volume%20de%20Pedidos%20por%20M%C3%AAs.png)
 - [Distribuição do Tempo de Entrega (em dias)](https://github.com/Lalset/triggo-bootcamp-desafio/blob/main/images/Distribui%C3%A7%C3%A3o%20do%20tempo%20de%20Entrega(em%20dias).png)
-- [🗺Quantidade de Pedidos por Estado](https://github.com/Lalset/triggo-bootcamp-desafio/blob/main/images/Quantidade%20de%20Pedidos%20por%20Estado.png)
+- [Quantidade de Pedidos por Estado](https://github.com/Lalset/triggo-bootcamp-desafio/blob/main/images/Quantidade%20de%20Pedidos%20por%20Estado.png)
 - [Relação entre Distância e Valor do Frete](https://github.com/Lalset/triggo-bootcamp-desafio/blob/main/images/Rela%C3%A7%C3%A3o%20entre%20dist%C3%A2ncia%20e%20valor%20do%20frete.png)
 - [Top 10 Categorias por Faturamento](https://github.com/Lalset/triggo-bootcamp-desafio/blob/main/images/Top%2010%20Categorias%20por%20Faturamento.png)
 
 ---
 
-## 🛠️ Como Executar
+##  Como Executar
 
 1. Clone este repositório:
 git clone https://github.com/Lalset/triggo-bootcamp-desafio
