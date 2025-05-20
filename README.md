@@ -67,10 +67,10 @@ pip install -r requirements.txt
 ## Tecnologias Utilizadas
 - Python
 - Pandas
--NumPy
--Seaborn & Matplotlib
--Scikit-learn
--SQL (pandasql)
+- NumPy
+- Seaborn & Matplotlib
+- Scikit-learn
+- SQL (pandasql)
 
 ## Contato
 Em caso de dúvidas ou sugestões é só vir aqui:
