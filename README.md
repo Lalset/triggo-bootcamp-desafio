@@ -1,19 +1,9 @@
 # triggo-bootcamp-desafio
 Solução para o desafio técnico do Programa Trainee de Excelência em Engenharia de Dados e DataOps 2025 - triggo.ai.   O projeto envolve análise exploratória, modelagem preditiva, segmentação de clientes, visualizações e geração de insights a partir de um dataset de e-commerce brasileiro.
 
-https://github.com/Lalset/triggo-bootcamp-desafio
-
 # Teste Técnico - Triggo.ai | Programa de Trainee em Engenharia de Dados e DataOps 2025
 
 Este repositório contém a solução desenvolvida para o teste técnico do processo seletivo da **triggo.ai**. O objetivo foi analisar dados do e-commerce **Olist** utilizando técnicas de análise exploratória, machine learning, segmentação e visualização de dados.
-
-## 📁 Estrutura
-
-- `Teste_Tecnico_TriggoAi.ipynb` — Notebook com todo o desenvolvimento da análise.
-- `requirements.txt` — Bibliotecas necessárias para executar o notebook.
-- `README.md` — Este arquivo de explicação.
-
----
 
 ## 🧪 Etapas do Desafio
 
@@ -42,9 +32,6 @@ Este repositório contém a solução desenvolvida para o teste técnico do proc
   - Modelo de Regressão Logística para prever atrasos.
   - Matriz de confusão e métricas de avaliação.
   - Ajustes para melhorar o recall da classe minoritária.
-- **Segmentação de Clientes**: (opcional - se foi feito, adicione)
-- **Análise de Satisfação**: (opcional - se foi feito, adicione)
-
 ---
 
 ## Principais Insights
